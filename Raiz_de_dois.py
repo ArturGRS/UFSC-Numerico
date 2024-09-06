@@ -1,3 +1,4 @@
+
 Valor_1 = 1
 Valor_2 = 2
 contador = 0
@@ -20,5 +21,3 @@ while ( contador < 50 ):
     print(media)
 
 # Só para brincar um pouco mais eu quero gerar um tabela para colocar os valores de (Valor_1 e Valor_2 e Media)
-
-
