@@ -1,0 +1,55 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{graphicx, float}
+\usepackage{multicol}
+\usepackage[brazil]{babel}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage[letterpaper, top = 1in, bottom = 1.0 in, left = 0.8 in, right = 0.8 in, heightrounded]{geometry}
+
+%%%%%%%%%%%%%%%%%%%%%%%%% Caso haja dúvidas na Symbologia %%%%%%%%%%%%%%%%
+% https://detexify.kirelabs.org/classify.html
+%%%%%%%%%%%%%%%%%%%%%%%%% Parâmetros de construção %%%%%%%%%%%%%%%%%%%%%%%
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.8em}
+
+\title{\textbf{Repositório de Cálculo Numérico}}
+\author{UFSC Joinville - EMB5016 \\ Artur Gemaque}
+\date{\today}
+%%%%%%%%%%%%%%%%%%%%%%%%%% COMEÇO DO DOCUMENTO %%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\maketitle
+
+\begin{abstract}
+    Este documento tem a finalidade de repositório atuando como material de reforço 
+    para os alunos da disciplina de Cal. Numérico do professor Alexandre Zabot. Nesse sentido, 
+    devo informar que os sequintes conteúdos são nada mais do que anotações 
+    dos alunos no decorrer das aulas. Agradecimentos ao Maicon que me deu essa ideia!
+\end{abstract}
+
+\begin{multicols}{2}
+\section{Método da Bissecção}
+    O método divide repetidamente pela metade (bisseção) subintervalos de [a, b] e, em cada
+    passo, localiza a metade que contém p, sendo p a raiz da equação.
+
+    O método consiste em: 
+    \begin{enumerate}
+        \item Chute um valor para "a"\ e outro para "b", de maneira que $ f(x) $ seja continua no intervalo [a,b].
+        \item Atribua o valor médio de "a"\ e "b"\ a uma variável chamanda de "q".
+        \item Certifique-se que "q"\ não é uma raiz.
+        \item Verifique o sinal de $ f(a) $ e $ f(q) $.
+        \item Caso I. $ f(a) $ e $ f(q) $ contém mesmo sinal $\Longrightarrow $ A raiz está entre "q"\ e "b". 
+        \item Substitua "a"\ pelo valor de "q"
+        \item Retorne para o iten 2
+        \item Caso II. $ f(a) $ e $ f(q) $ contém sinais opostos $\Longrightarrow $ A raiz está entre "a"\ e "q". 
+        \item Substitua "b"\ pelo valor de "q"
+        \item Retorne para o iten 7
+    \end{enumerate}
+
+\section{Iteração de Ponto Fixo}
+
+    
+
+\end{multicols}
+\end{document}
