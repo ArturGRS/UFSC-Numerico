@@ -11,6 +11,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%% Caso haja dúvidas na Symbologia %%%%%%%%%%%%%%%%
 % https://detexify.kirelabs.org/classify.html
 %%%%%%%%%%%%%%%%%%%%%%%%% Parâmetros de construção %%%%%%%%%%%%%%%%%%%%%%%
+
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.8em}
 
@@ -48,8 +49,16 @@
     \end{enumerate}
 
 \section{Iteração de Ponto Fixo}
+    Observamos que sempre podemos reescrever uma equação da forma $ f(x) = 0 $, de modo que obtamos a função equivalente $ g(x) = x^* $ 
+    . Por exemplo:
 
-    
+    \begin{enumerate}
+        \item $ e^x = x + 2 $, podemos reescrever como $ f(x) = 0 $ ou $ f(x) = e^x - x - 2 $
+        \item Reescrevemos a função que representa todos os "0" da equação como x = x da sequinte forma $ g(x) = x $ e $ g(x) = e^x - 2 $ 
+        \item Dada uma função $ g(x) $, a iteração do ponto fixo consiste em computar a seguinte sequência recursiva: \\ $ x^{(n+1)} = g(x^{(n)}),\  n >= 1, $
+    \end{enumerate}
+
+
 
 \end{multicols}
 \end{document}

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1725888064.12197 "d:/Codigos/Calculo-Numerico-UFSC/Documentação de aula/Main.tex" "Main.pdf" "Main" 1725888065.84715 0
+["pdflatex"] 1726439693.99591 "d:/Codigos/Numerico-UFSC/Documentação de aula/Repositório de Cálculo Numérico.tex" "Repositório de Cálculo Numérico.pdf" "Repositório de Cálculo Numérico" 1726439695.01513 0
   "C:/Users/areag/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1725739578 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/areag/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1725729216 24251262 f13ae5b104612f83b8a084720d1dce8d ""
   "D:/Apps/Miktex/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -27,10 +27,13 @@
   "D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx9.pfb" 1247596667 32298 c6d25bb16d1eac01ebdc6d7084126a1e ""
   "D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
   "D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1247596666 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
   "D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
   "D:/Apps/Miktex/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "D:/Apps/Miktex/tex/generic/babel/babel.sty" 1724932513 146459 bc754156bcff0b0651cf59d8ba0cb2bc ""
   "D:/Apps/Miktex/tex/generic/babel/txtbabel.def" 1724932513 6945 bd5d6b511b1a8665314b99c284c05828 ""
@@ -172,11 +175,11 @@
   "D:/Apps/Miktex/tex/latex/pgfplots/pgfplots.sty" 1621075461 4904 ee78b44e85d6fccf08cd99370557481e ""
   "D:/Apps/Miktex/tex/latex/tools/multicol.sty" 1718356376 32621 00e86c03dbf6e71d7ea7ebac2bd4fcaf ""
   "D:/Apps/Miktex/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "Main.aux" 1725888065 391 4fc733a56a26ad73b8b64d60920e37b6 "pdflatex"
-  "Main.tex" 1725888059 2316 c108e076b85d5d1ea9b1e6a64628d486 ""
-  "d:/Codigos/Calculo-Numerico-UFSC/Documentação de aula/Main.tex" 1725888059 2316 c108e076b85d5d1ea9b1e6a64628d486 ""
+  "Repositório de Cálculo Numérico.aux" 1726439694 391 4fc733a56a26ad73b8b64d60920e37b6 "pdflatex"
+  "Repositório de Cálculo Numérico.tex" 1726439693 2926 cfe9d5b3e6ecb635bb36774f578bb9d9 ""
+  "d:/Codigos/Numerico-UFSC/Documentação de aula/Repositório de Cálculo Numérico.tex" 1726439693 2926 cfe9d5b3e6ecb635bb36774f578bb9d9 ""
   (generated)
-  "Main.aux"
-  "Main.log"
-  "Main.pdf"
+  "Repositório de Cálculo Numérico.aux"
+  "Repositório de Cálculo Numérico.log"
+  "Repositório de Cálculo Numérico.pdf"
   (rewritten before read)
