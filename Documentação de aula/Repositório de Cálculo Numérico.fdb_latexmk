@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1728647273.20378 "d:/Codigos/Numerico-UFSC/Documentação de aula/Repositório de Cálculo Numérico.tex" "Repositório de Cálculo Numérico.pdf" "Repositório de Cálculo Numérico" 1728647275.37054 0
-  "C:/Users/areag/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1727200579 82507 a9eef8696c92627b87e9975edea03b2a ""
+["pdflatex"] 1732458356.74655 "d:/Codigos/UFSC-Numerico/Documentação de aula/Repositório de Cálculo Numérico.tex" "Repositório de Cálculo Numérico.pdf" "Repositório de Cálculo Numérico" 1732458357.98985 0
+  "C:/Users/areag/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1730988778 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/areag/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1725731011 11548 68fcc64816317c0928c58c929f8a498f ""
   "C:/Users/areag/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1725729216 24251262 f13ae5b104612f83b8a084720d1dce8d ""
   "D:/Apps/Miktex/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
@@ -166,6 +166,7 @@
   "D:/Apps/Miktex/tex/latex/graphics/mathcolor.ltx" 1718270727 2885 9c645d672ae17285bba324998918efd8 ""
   "D:/Apps/Miktex/tex/latex/graphics/trig.sty" 1718270727 4023 2c9f39712cf7b43d3eb93a8bbd5c8f67 ""
   "D:/Apps/Miktex/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "D:/Apps/Miktex/tex/latex/labels/labels.sty" 1183794171 10295 946e4b751850c4606195f4191556b8a2 ""
   "D:/Apps/Miktex/tex/latex/pgf/basiclayer/pgf.sty" 1673775190 1090 bae35ef70b3168089ef166db3e66f5b2 ""
   "D:/Apps/Miktex/tex/latex/pgf/basiclayer/pgfcore.sty" 1673775190 373 00b204b1d7d095b892ad31a7494b0373 ""
   "D:/Apps/Miktex/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty" 1673775190 21013 f4ff83d25bb56552493b030f27c075ae ""
@@ -179,10 +180,14 @@
   "D:/Apps/Miktex/tex/latex/pgfplots/pgfplots.sty" 1621075461 4904 ee78b44e85d6fccf08cd99370557481e ""
   "D:/Apps/Miktex/tex/latex/tools/multicol.sty" 1718356376 32621 00e86c03dbf6e71d7ea7ebac2bd4fcaf ""
   "D:/Apps/Miktex/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
+  "Imagens/Abertura LU.jpg" 1730742339 45182 a1e96baedb20d29d6eb0efc5faa81136 ""
+  "Imagens/Decomposição LU.jpg" 1730741959 26767 12c254646976252a8492aa15c8b65d14 ""
+  "Imagens/Decomposição Linar padrão.jpg" 1730741875 13023 c53966060cad5f692d09108a44c9f943 ""
   "Imagens/Gauss-Seidel.jpg" 1727016708 51532 e866d979263f336440b2763f3d116087 ""
-  "Repositório de Cálculo Numérico.aux" 1728647275 1175 6cad427a3ed2995177c6b0574bfd1cee "pdflatex"
-  "Repositório de Cálculo Numérico.tex" 1728647269 5672 ed5c7668f3b7dd7af62724db620b0f10 ""
-  "d:/Codigos/Numerico-UFSC/Documentação de aula/Repositório de Cálculo Numérico.tex" 1728647269 5672 ed5c7668f3b7dd7af62724db620b0f10 ""
+  "Imagens/Matriz_Qualquer.jpg" 1730742300 9071 eef598906f6799f4a625282b231d7c62 ""
+  "Repositório de Cálculo Numérico.aux" 1732458357 1210 58c1e00e8bdcd21ed7d3ebdecea8d8fd "pdflatex"
+  "Repositório de Cálculo Numérico.tex" 1732458355 6366 ef2fccba39fcef3901537a3a72adb8ac ""
+  "d:/Codigos/UFSC-Numerico/Documentação de aula/Repositório de Cálculo Numérico.tex" 1732458355 6366 ef2fccba39fcef3901537a3a72adb8ac ""
   (generated)
   "Repositório de Cálculo Numérico.aux"
   "Repositório de Cálculo Numérico.log"

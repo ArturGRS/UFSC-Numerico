@@ -1,6 +1,7 @@
 \documentclass{article}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath, amssymb, amsthm}
+\usepackage{labels}
 \usepackage{graphicx, float}
 \graphicspath{{./Imagens/}}
 \usepackage{multicol}
@@ -40,15 +41,15 @@
         O método consiste em: 
         \begin{enumerate}
             \item Chute um valor para "a"\ e outro para "b", de maneira que $ f(x) $ seja continua no intervalo [a,b].
-            \item Atribua o valor médio de "a"\ e "b"\ a uma variável chamanda de "q".
-            \item Certifique-se que "q"\ não é uma raiz.
+            \item Atribua o valor médio de "a"\ e "b"\ a uma variável chamanda de ``q". \label{item 2}
+            \item Certifique-se que ``q" não é uma raiz.
             \item Verifique o sinal de $ f(a) $ e $ f(q) $.
-            \item Caso I. $ f(a) $ e $ f(q) $ contém mesmo sinal $\Longrightarrow $ A raiz está entre "q"\ e "b". 
-            \item Substitua "a"\ pelo valor de "q"
-            \item Retorne para o iten 2
-            \item Caso II. $ f(a) $ e $ f(q) $ contém sinais opostos $\Longrightarrow $ A raiz está entre "a"\ e "q". 
-            \item Substitua "b"\ pelo valor de "q"
-            \item Retorne para o iten 7
+            \item Caso I. $ f(a) $ e $ f(q) $ contém mesmo sinal $\Longrightarrow $ A raiz está entre ``q"\ e ``b". 
+            \item Substitua ``a" pelo valor de ``q"
+            \item Retorne para o \ref{item 2}
+            \item Caso II. \(f(a)\) e $ f(q) $ contém sinais opostos $\Longrightarrow $ A raiz está entre ``a"\ e ``q". 
+            \item Substitua ``b" pelo valor de ``q"
+            \item Retorne para o item 7
         \end{enumerate}
 
     \subsection{Iteração de Ponto Fixo}
@@ -111,9 +112,26 @@
 
         \hbox{\includegraphics[width=7cm]{Gauss-Seidel.jpg}}
     
-    \section{Interpolação}
-        \subsection{}
+        \subsection{Decomposição Lu}
 
+            O método LU consiste em dividir a matriz em questão em duas partes
+
+            \hbox{\includegraphics[width=9cm]{Decomposição Linar padrão.jpg}}  
+        \begin{enumerate}
+            \item Triangular inferir com linha diagonal completa (L)
+            \item Triangular superiror com diagonal zerada (U)
+            \hbox{\includegraphics[width=7cm]{Decomposição LU.jpg}}
+        \end{enumerate}
+
+        \begin{quote}
+            exemplo
+        \end{quote}
+        \hbox{\includegraphics[width=9cm]{Matriz_Qualquer.jpg}} 
+        \hbox{\includegraphics[width=9cm]{Abertura LU.jpg}} 
+
+        \newpage
+
+    \section{}
 
 \end{multicols}
 \end{document}

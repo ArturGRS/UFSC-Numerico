@@ -1,6 +1,6 @@
-PWD d:\Codigos\Numerico-UFSC\Documentação de aula
+PWD d:\Codigos\UFSC-Numerico\Documentação de aula
 INPUT C:\Users\areag\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Codigos\Numerico-UFSC\Documentação de aula\Repositório de Cálculo Numérico.tex
+INPUT d:\Codigos\UFSC-Numerico\Documentação de aula\Repositório de Cálculo Numérico.tex
 OUTPUT Repositório de Cálculo Numérico.log
 INPUT D:\Apps\Miktex\tex\latex\base\article.cls
 INPUT D:\Apps\Miktex\tex\latex\base\article.cls
@@ -25,6 +25,8 @@ INPUT D:\Apps\Miktex\tex\latex\amsfonts\amsfonts.sty
 INPUT D:\Apps\Miktex\tex\latex\amsfonts\amsfonts.sty
 INPUT D:\Apps\Miktex\tex\latex\amscls\amsthm.sty
 INPUT D:\Apps\Miktex\tex\latex\amscls\amsthm.sty
+INPUT D:\Apps\Miktex\tex\latex\labels\labels.sty
+INPUT D:\Apps\Miktex\tex\latex\labels\labels.sty
 INPUT D:\Apps\Miktex\tex\latex\graphics\graphicx.sty
 INPUT D:\Apps\Miktex\tex\latex\graphics\graphicx.sty
 INPUT D:\Apps\Miktex\tex\latex\graphics\keyval.sty
@@ -285,6 +287,30 @@ INPUT .\Imagens\Gauss-Seidel.jpg
 INPUT .\Imagens\Gauss-Seidel.jpg
 INPUT .\Imagens\Gauss-Seidel.jpg
 INPUT .\Imagens\Gauss-Seidel.jpg
+INPUT .\Imagens\Decomposição Linar padrão.jpg
+INPUT .\Imagens\Decomposição Linar padrão.jpg
+INPUT .\Imagens\Decomposição Linar padrão.jpg
+INPUT .\Imagens\Decomposição Linar padrão.jpg
+INPUT .\Imagens\Decomposição Linar padrão.jpg
+INPUT .\Imagens\Decomposição Linar padrão.jpg
+INPUT .\Imagens\Decomposição LU.jpg
+INPUT .\Imagens\Decomposição LU.jpg
+INPUT .\Imagens\Decomposição LU.jpg
+INPUT .\Imagens\Decomposição LU.jpg
+INPUT .\Imagens\Decomposição LU.jpg
+INPUT .\Imagens\Decomposição LU.jpg
+INPUT .\Imagens\Matriz_Qualquer.jpg
+INPUT .\Imagens\Matriz_Qualquer.jpg
+INPUT .\Imagens\Matriz_Qualquer.jpg
+INPUT .\Imagens\Matriz_Qualquer.jpg
+INPUT .\Imagens\Matriz_Qualquer.jpg
+INPUT .\Imagens\Matriz_Qualquer.jpg
+INPUT .\Imagens\Abertura LU.jpg
+INPUT .\Imagens\Abertura LU.jpg
+INPUT .\Imagens\Abertura LU.jpg
+INPUT .\Imagens\Abertura LU.jpg
+INPUT .\Imagens\Abertura LU.jpg
+INPUT .\Imagens\Abertura LU.jpg
 INPUT Repositório de Cálculo Numérico.aux
 INPUT C:\Users\areag\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\areag\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
